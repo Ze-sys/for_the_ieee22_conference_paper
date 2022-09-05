@@ -1,9 +1,13 @@
 <h1  style="color:orange"> <img src="https://theaisummer.com/static/6f5e6b0110a7231a9f70cdf0df9190a0/f4094/topic-autoencoders.png" width=35  height=35 />  Autoencoder  Models Builder
  </h1> 
+
+ 
+
 <a> Anomaly detection using basic autoencoders </a>
 
-### [![Open app in Streamlit, if deployed](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ze-sys-for-the-ieee22-conference-paper-home-hr7pb3.streamlitapp.com/)
+### [![Open Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ze-sys-for-the-ieee22-conference-paper-home-hr7pb3.streamlitapp.com/)
 
+[<img src="https://img.shields.io/badge/dockerhub-image-COLOR.svg?logo=LOGO">](https://hub.docker.com/r/zesys0/autoencoders4ieee22)
 
 
 This repository contains a streamlit app that I built and used to train and test autoencoder models for ieee'22 oceans conference paper (Paper ID 2022169954). 
