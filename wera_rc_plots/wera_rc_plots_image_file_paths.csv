@@ -1,0 +1,2 @@
+manually_labeled_good_images_path,good_images_path,bad_images_path,unknown_images_path,good_and_bad_images_path
+data/wera_rc_plots/trimmed/good/,data/wera_rc_plots/trimmed/good/,data/wera_rc_plots/trimmed/bad/,data/wera_rc_plots/WERA2022222RCPlots/trimmed/,data/wera_rc_plots/WERA2022222RCPlots/trimmed/

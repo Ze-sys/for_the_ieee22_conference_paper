@@ -1,0 +1,2 @@
+manually_labeled_good_images_path,good_images_path,bad_images_path,unknown_images_path,good_and_bad_images_path
+data/spectrograms/GoodSpectrograms/trimmed/good/,data/spectrograms/SOGC/201910_trimmed/2019/201910/trimmed/small_files/test_small_samples/distinct/,data/spectrograms/BadSpectrograms/trimmed/bad/,data/spectrograms/SOGC/201910_trimmed/2019/201910/trimmed/small_files/test_small_samples/,data/spectrograms/SOGC/201910_trimmed/2019/201910/trimmed/small_files/test_small_samples/

@@ -1,0 +1,794 @@
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:xxxlarge(1024)_epochs:50_learning_rate:0.001_batch_size:16_pixel_size:32_by_32_time_2022-08-03:22:03:45
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:xxxlarge(1024)_epochs:5_learning_rate:0.001_batch_size:16_pixel_size:32_by_32_time_2022-08-03:22:09:12
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:xxxlarge(1024)_epochs:100_learning_rate:0.001_batch_size:16_pixel_size:32_by_32_time_2022-08-03:22:10:49
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:8192_epochs:100_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-03:22:16:41
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:32_epochs:100_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-03:22:23:44
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:8192_epochs:100_learning_rate:0.001_batch_size:512_pixel_size:32_by_32_time_2022-08-03:22:28:27
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:8192_epochs:200_learning_rate:0.001_batch_size:512_pixel_size:32_by_32_time_2022-08-03:22:33:39
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:8192_epochs:400_learning_rate:0.001_batch_size:512_pixel_size:32_by_32_time_2022-08-03:22:51:52
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:8192_epochs:600_learning_rate:0.001_batch_size:512_pixel_size:32_by_32_time_2022-08-03:23:52:25
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:600_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-04:12:02:19
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:300_learning_rate:0.001_batch_size:128_pixel_size:32_by_32_time_2022-08-04:12:15:20
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:300_learning_rate:0.01_batch_size:128_pixel_size:32_by_32_time_2022-08-04:12:22:43
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:300_learning_rate:0.001_batch_size:256_pixel_size:32_by_32_time_2022-08-04:12:24:55
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:2_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-04:15:45:47
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:20_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-04:15:46:42
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:50_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-04:15:48:00
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-04:15:55:23
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:2_learning_rate:0.001_batch_size:16_pixel_size:512_by_512_time_2022-08-05:12:47:08
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:20_learning_rate:0.001_batch_size:16_pixel_size:512_by_512_time_2022-08-05:12:49:29
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:100_learning_rate:0.001_batch_size:16_pixel_size:512_by_512_time_2022-08-05:12:52:10
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:500_learning_rate:0.001_batch_size:16_pixel_size:512_by_512_time_2022-08-05:12:58:24
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:512_epochs:2_learning_rate:0.001_batch_size:32_pixel_size:32_by_32_time_2022-08-05:13:12:12
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:512_epochs:150_learning_rate:0.001_batch_size:32_pixel_size:32_by_32_time_2022-08-05:13:12:30
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:512_epochs:150_learning_rate:0.001_batch_size:32_pixel_size:32_by_32_time_2022-08-05:13:14:04
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:512_epochs:150_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-05:13:15:36
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:50_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-05:13:17:24
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:64_pixel_size:32_by_32_time_2022-08-05:13:18:32
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:128_pixel_size:32_by_32_time_2022-08-05:13:19:44
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:256_pixel_size:32_by_32_time_2022-08-05:13:21:30
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:512_pixel_size:32_by_32_time_2022-08-05:13:22:44
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:512_pixel_size:64_by_64_time_2022-08-05:13:24:15
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:2_learning_rate:0.001_batch_size:16_pixel_size:256_by_256_time_2022-08-05:13:27:53
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:2_learning_rate:0.001_batch_size:16_pixel_size:256_by_256_time_2022-08-05:13:29:26
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:16_pixel_size:256_by_256_time_2022-08-05:13:30:20
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:16_pixel_size:256_by_256_time_2022-08-05:16:14:55
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:150_learning_rate:0.001_batch_size:64_pixel_size:256_by_256_time_2022-08-05:16:20:06
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:50_learning_rate:0.001_batch_size:64_pixel_size:256_by_256_time_2022-08-05:17:00:16
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:300_learning_rate:0.001_batch_size:64_pixel_size:256_by_256_time_2022-08-05:17:07:27
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:1024_epochs:300_learning_rate:0.001_batch_size:128_pixel_size:256_by_256_time_2022-08-05:17:15:14
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:4096_epochs:150_learning_rate:0.001_batch_size:128_pixel_size:256_by_256_time_2022-08-05:18:17:26
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:4096_epochs:50_learning_rate:0.001_batch_size:16_pixel_size:256_by_256_time_2022-08-05:18:28:12
+Optimizer:Adam_loss:Mean_Squared_Error_sample_size:4096_epochs:50_learning_rate:0.001_batch_size:256_pixel_size:256_by_256_time_2022-08-05:18:30:23
+Optimizer:Adam&loss:Mean_Squared_Error&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:46:01&threshold_perc:75&threshold_value<built-in function threshold>
+Optimizer:Adam&loss:Mean_Squared_Error&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:46:04&threshold_perc:75&threshold_value<built-in function threshold>
+Optimizer:Adam&loss:Mean_Squared_Error&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:46:04&threshold_perc:75&threshold_value[0.05191365]
+Optimizer:Adam&loss:Mean_Squared_Error&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:52:17&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:Mean_Squared_Error&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:52:17&threshold_perc:75&threshold_value:[0.09535149]
+Optimizer:Adam&loss:Mean_Squared_Error&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:54:25&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:Mean_Squared_Error&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:54:25&threshold_perc:75&threshold_value:[0.11853409]
+Optimizer:Adam&loss:mse&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:59:06&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:59:06&threshold_perc:75&threshold_value:[0.13034303]
+Optimizer:Adam&loss:mse&sample_size:32&epochs:20&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:21:59:59&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&sample_size:32&epochs:2&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:22:00:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&sample_size:32&epochs:2&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:22:00:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&sample_size:32&epochs:2&learning_rate:0.001&batch_size:16&pixel_size:32&time:2022-08-06:22:00:23&threshold_perc:75&threshold_value:[0.22429222]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:03:07&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:03:07&threshold_perc:75&threshold_value:[0.22843734]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:05:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:05:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:05:39&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:05:39&threshold_perc:75&threshold_value:[0.11805114]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:15:01&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:15:12&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-06:22:15:15&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:15:33&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:15:47&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:16:01&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:16:01&threshold_perc:80&threshold_value:[0.00694132]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:22:28&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:22:28&threshold_perc:80&threshold_value:[0.0044657]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:25:33&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:25:33&threshold_perc:80&threshold_value:[0.00592287]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:22:28:14&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:22:28:21&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:22:28:29&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:400&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:22:28:29&threshold_perc:80&threshold_value:[0.00758477]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:22:44:21&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:22:44:23&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:22:44:33&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:22:44:40&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:22:44:40&threshold_perc:80&threshold_value:[0.00832563]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:128&pixelsize:256&time:2022-08-06:22:50:43&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:128&pixelsize:256&time:2022-08-06:22:50:45&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:128&pixelsize:256&time:2022-08-06:22:50:45&threshold_perc:80&threshold_value:[0.01123061]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-06:22:56:57&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-06:22:56:58&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-06:22:56:58&threshold_perc:80&threshold_value:[0.006314]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:32&pixelsize:256&time:2022-08-06:22:59:46&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:32&pixelsize:256&time:2022-08-06:22:59:48&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:32&pixelsize:256&time:2022-08-06:22:59:48&threshold_perc:80&threshold_value:[0.00676608]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:23:06:01&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:23:06:07&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:23:06:07&threshold_perc:80&threshold_value:[0.00554042]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:1000&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:23:09:25&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:1000&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:23:09:28&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:1000&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:23:09:28&threshold_perc:80&threshold_value:[0.00796532]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:23:50:10&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:SGD&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-06:23:50:25&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:SGD&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:23:50:35&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:SGD&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:23:50:37&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:SGD&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:23:50:37&threshold_perc:80&threshold_value:[0.00932089]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:23:58:30&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:10&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:23:58:34&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:10&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:23:58:35&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:10&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-06:23:58:35&threshold_perc:80&threshold_value:[0.0118131]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:00:12&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:00:15&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:00:15&threshold_perc:80&threshold_value:[0.00725569]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-07:00:08:37&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-07:00:08:38&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-07:00:08:38&threshold_perc:80&threshold_value:[0.00667677]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-07:00:14:46&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-07:00:14:46&threshold_perc:80&threshold_value:[0.00755061]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:32&pixelsize:256&time:2022-08-07:00:16:15&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:32&pixelsize:256&time:2022-08-07:00:16:17&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:32&pixelsize:256&time:2022-08-07:00:16:17&threshold_perc:80&threshold_value:[0.00853838]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:00:19:12&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:00:19:14&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:00:19:14&threshold_perc:80&threshold_value:[0.01013352]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:128&pixelsize:256&time:2022-08-07:00:22:20&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:128&pixelsize:256&time:2022-08-07:00:22:21&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:128&pixelsize:256&time:2022-08-07:00:22:21&threshold_perc:80&threshold_value:[0.01040324]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:128&pixelsize:256&time:2022-08-07:00:27:35&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:128&pixelsize:256&time:2022-08-07:00:27:35&threshold_perc:80&threshold_value:[0.01255707]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:32:15&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:32:19&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:32:19&threshold_perc:80&threshold_value:[0.0102875]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:512&pixelsize:256&time:2022-08-07:00:37:36&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:512&pixelsize:128&time:2022-08-07:00:37:41&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:512&pixelsize:128&time:2022-08-07:00:37:48&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:512&pixelsize:128&time:2022-08-07:00:37:48&threshold_perc:80&threshold_value:[0.01043807]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:512&pixelsize:256&time:2022-08-07:00:41:12&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:512&pixelsize:256&time:2022-08-07:00:41:15&threshold_perc:80&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:00:41:55&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:00:42:06&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:00:42:15&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:00:42:29&threshold_perc:85&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:256&time:2022-08-07:00:42:34&threshold_perc:85&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:00:42:43&threshold_perc:85&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:00:42:51&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:00:42:54&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:00:43:02&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:00:43:25&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:00:43:31&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:00:43:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:150&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:00:43:46&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:200&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:00:43:52&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:200&learningrate:0.001&batchsize:256&pixelsize:32&time:2022-08-07:00:43:58&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:44:02&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:44:06&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:44:13&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:44:19&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:00:44:19&threshold_perc:90&threshold_value:[0.01354384]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:12:03:36&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:12:04:11&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-07:12:04:23&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:12:04:36&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:12:04:42&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:64&pixelsize:256&time:2022-08-07:12:09:10&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-07:12:09:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:09:24:54&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:09:25:57&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:17:23:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:18:03:46&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:18:04:46&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:18:05:21&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:18:05:36&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:256&pixelsize:32&time:2022-08-08:18:05:58&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-08:18:06:02&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-08:18:06:08&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-08:18:16:06&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-08:18:16:06&threshold_perc:90&threshold_value:[0.01388129]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-08:23:12:38&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-08:23:13:10&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-08:23:13:15&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-08:23:14:46&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:17:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:17:28&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:17:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:17:37&threshold_perc:75&threshold_value:[0.22666337]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:18:26&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:18:26&threshold_perc:75&threshold_value:[0.22928031]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:21:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:23:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:26:00&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:26:00&threshold_perc:75&threshold_value:[0.22429094]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:37:52&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:46:02&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:46:06&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:46:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:46:16&threshold_perc:75&threshold_value:[0.22781297]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:46:47&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:47:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:47:29&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-08:23:47:29&threshold_perc:75&threshold_value:[0.0616793]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:16&pixelsize:128&time:2022-08-09:00:14:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:16&pixelsize:128&time:2022-08-09:00:14:42&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:00:14:47&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:00:15:10&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:00:18:07&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:00:18:07&threshold_perc:90&threshold_value:[0.01805673]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:00:53:23&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:00:53:23&threshold_perc:90&threshold_value:[0.01620732]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:10:03&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:10:09&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:12:50&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:12:54&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:13:46&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:14:27&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:14:32&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:20&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:14:32&threshold_perc:90&threshold_value:[0.01718365]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:17:42&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:18:00&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:01:18:00&threshold_perc:90&threshold_value:[0.01425952]
+Optimizer:Adam&loss:mse&samplesize:2048&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:06:48:21&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:06:49:00&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-09:15:45:57&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-09:15:46:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-09:15:46:19&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-09:15:46:28&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:15:46:32&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:15:47:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:15:47:17&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-09:15:47:17&threshold_perc:75&threshold_value:[0.22548416]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:04:24&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:04:55&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:05:02&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:07:52&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:08:22&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:08:54&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:09:09&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:09:24&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:11:37&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:15:47&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:15:53&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:15:53&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:15:56&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:20:09&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:20:10&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:20:10&threshold_perc:95&threshold_value:[0.00128113]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:23:10&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:23:12&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:23:12&threshold_perc:95&threshold_value:[0.1789344]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:24:19&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:24:20&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:24:20&threshold_perc:95&threshold_value:[0.18126265]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:31:38&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:31:40&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:31:41&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:12:31:41&threshold_perc:95&threshold_value:[0.17123778]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:33:47&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:33:49&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:33:49&threshold_perc:95&threshold_value:[0.18374429]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:36:36&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:36:38&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:5&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:36:38&threshold_perc:95&threshold_value:[0.18699795]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:37:01&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:37:07&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:37:07&threshold_perc:95&threshold_value:[0.00226414]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:37:53&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:37:53&threshold_perc:95&threshold_value:[0.00226747]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:38:30&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:38:31&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:38:31&threshold_perc:95&threshold_value:[0.00180213]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:44:03&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:44:03&threshold_perc:95&threshold_value:[0.00073202]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:44:27&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:44:27&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:44:27&threshold_perc:95&threshold_value:[0.00264957]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:45:00&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:45:01&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:45:01&threshold_perc:95&threshold_value:[0.00238415]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:45:26&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:45:26&threshold_perc:95&threshold_value:[0.00178651]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:47:49&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:47:50&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:47:50&threshold_perc:95&threshold_value:[0.00260006]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:48:20&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:12:48:20&threshold_perc:95&threshold_value:[0.00268308]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:150&learningrate:0.001&batchsize:64&pixelsize:32&time:2022-08-10:17:41:58&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:08:45&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:08:59&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:09:11&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:09:14&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:09:14&threshold_perc:95&threshold_value:[0.19249724]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:10:46&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:10:47&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:10:47&threshold_perc:95&threshold_value:[0.00640541]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:512&pixelsize:32&time:2022-08-10:19:11:32&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:512&pixelsize:32&time:2022-08-10:19:11:38&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:512&pixelsize:32&time:2022-08-10:19:11:38&threshold_perc:95&threshold_value:[0.01386867]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:13:36&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:13:49&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:13:56&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:14:07&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:14:12&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:14:15&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:14:15&threshold_perc:90&threshold_value:[0.00325319]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:15:04&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:15:13&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:15:19&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:15:24&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:15:26&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:15:26&threshold_perc:90&threshold_value:[0.18693394]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:16:05&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:16:09&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:16:09&threshold_perc:90&threshold_value:[0.18982564]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:22:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:22:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:22:43&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:19:22:50&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:23:00&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-10:19:23:04&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:23:09&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:23:14&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:23:16&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:200&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:23:16&threshold_perc:90&threshold_value:[0.00529447]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:200&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:30:00&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:30:09&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:30:14&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:30:21&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:30:30&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:30:30&threshold_perc:90&threshold_value:[0.00453279]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:37:00&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:37:10&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:37:13&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-10:19:37:13&threshold_perc:95&threshold_value:[0.00598374]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:20:42:38&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:20:43:59&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:20:44:16&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-10:20:44:24&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:4096&pixelsize:32&time:2022-08-10:20:44:31&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:20:44:38&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:20:44:50&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:20:44:50&threshold_perc:95&threshold_value:[0.00457484]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:100&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:20:55:05&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:20:55:25&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:20:55:26&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:20:55:26&threshold_perc:95&threshold_value:[0.00879745]
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:50&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:21:00:03&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:2048&epochs:50&learningrate:0.001&batchsize:4096&pixelsize:64&time:2022-08-10:21:00:16&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:2048&epochs:50&learningrate:0.001&batchsize:2048&pixelsize:64&time:2022-08-10:21:00:21&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:2048&epochs:50&learningrate:0.001&batchsize:2048&pixelsize:128&time:2022-08-10:21:00:27&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:2048&epochs:50&learningrate:0.001&batchsize:2048&pixelsize:128&time:2022-08-10:21:00:30&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:2048&epochs:50&learningrate:0.001&batchsize:2048&pixelsize:128&time:2022-08-10:21:00:30&threshold_perc:95&threshold_value:[0.01266095]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:14:58&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:15:01&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:15:56&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:16:14&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:16:22&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-11:00:16:24&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:16:30&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:16:54&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:17:16&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:17:18&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:17:21&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:19:06&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:19:55&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:21:19&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:21:58&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:22:15&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:22:15&threshold_perc:90&threshold_value:[0.01358862]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:00:28:54&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:1024&pixelsize:256&time:2022-08-11:00:29:17&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:1024&pixelsize:256&time:2022-08-11:00:29:22&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:30:04&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:30:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:31:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:50&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:31:18&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:50&learningrate:0.001&batchsize:512&pixelsize:32&time:2022-08-11:00:31:21&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:50&learningrate:0.001&batchsize:512&pixelsize:256&time:2022-08-11:00:31:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:50&learningrate:0.001&batchsize:512&pixelsize:256&time:2022-08-11:00:31:42&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:50&learningrate:0.001&batchsize:512&pixelsize:256&time:2022-08-11:00:31:44&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:50&learningrate:0.001&batchsize:512&pixelsize:256&time:2022-08-11:00:31:44&threshold_perc:90&threshold_value:[0.01472302]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:50&learningrate:0.001&batchsize:512&pixelsize:512&time:2022-08-11:00:40:18&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:50&learningrate:0.001&batchsize:512&pixelsize:512&time:2022-08-11:00:40:36&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:41:15&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:41:21&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:41:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:41:55&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-11:00:42:00&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:256&pixelsize:32&time:2022-08-11:00:42:05&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-11:00:42:07&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-11:00:42:11&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-11:00:42:12&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-11:00:42:15&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-11:00:42:17&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-11:00:42:17&threshold_perc:90&threshold_value:[0.01520797]
+Optimizer:Adam&loss:mse&samplesize:256&epochs:50&learningrate:0.001&batchsize:256&pixelsize:128&time:2022-08-11:01:12:24&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:256&pixelsize:128&time:2022-08-11:01:12:33&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:01:12:39&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:01:13:01&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-11:01:13:01&threshold_perc:90&threshold_value:[0.01498482]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:50&learningrate:0.001&batchsize:128&pixelsize:128&time:2022-08-11:01:15:42&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:128&epochs:50&learningrate:0.001&batchsize:128&pixelsize:128&time:2022-08-11:01:15:46&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:128&epochs:50&learningrate:0.001&batchsize:128&pixelsize:128&time:2022-08-11:01:15:50&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:128&epochs:50&learningrate:0.001&batchsize:128&pixelsize:128&time:2022-08-11:01:15:50&threshold_perc:90&threshold_value:[0.01746678]
+Optimizer:Adam&loss:mse&samplesize:128&epochs:50&learningrate:0.001&batchsize:128&pixelsize:128&time:2022-08-11:01:20:15&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:128&epochs:50&learningrate:0.001&batchsize:128&pixelsize:128&time:2022-08-11:01:20:15&threshold_perc:90&threshold_value:[0.01727885]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-13:23:15:02&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-13:23:15:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:250&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-13:23:16:25&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-13:23:17:04&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:17:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:17:21&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:17:41&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:18:04&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:18:33&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:19:15&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:23:23&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:29:08&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:29:08&threshold_perc:95&threshold_value:[0.01500135]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:40:52&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:25&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:41:20&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:25&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:41:25&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:25&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:41:25&threshold_perc:95&threshold_value:[0.02051153]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:45:12&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:45:12&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:45:50&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:45:50&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:45:50&threshold_perc:95&threshold_value:[0.22957134]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:46:40&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:46:43&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:46:43&threshold_perc:95&threshold_value:[0.23439597]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:47:23&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:47:23&threshold_perc:95&threshold_value:[0.23540221]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:48:35&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:48:35&threshold_perc:95&threshold_value:[0.23166944]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:49:08&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:49:08&threshold_perc:95&threshold_value:[0.23319966]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:51:13&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:51:13&threshold_perc:95&threshold_value:[0.2357386]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:51:53&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:51:53&threshold_perc:95&threshold_value:[0.21021776]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:53:01&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:53:01&threshold_perc:95&threshold_value:[0.23540947]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:54:28&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:54:28&threshold_perc:95&threshold_value:[0.23505422]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:57:17&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:57:57&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:58:48&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:59:23&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:59:25&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:59:26&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:59:40&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-13:23:59:40&threshold_perc:95&threshold_value:[0.0186957]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:07:20&threshold_perc:95&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:07:20&threshold_perc:95&threshold_value:[0.01340633]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:100&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:12:41&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:13:03&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:13:14&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:13:30&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:250&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:13:30&threshold_perc:90&threshold_value:[0.00961107]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:32&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:19:06&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:32&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:19:08&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:32&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:19:08&threshold_perc:90&threshold_value:[0.00981952]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:500&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:21:32&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:500&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:21:35&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:500&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:21:37&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:500&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:21:39&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:500&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:21:43&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:500&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:21:43&threshold_perc:90&threshold_value:[0.01033264]
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:35:23&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:37:26&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:38:43&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:38:51&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:40:18&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-14:00:40:18&threshold_perc:90&threshold_value:[0.00588552]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:08:42&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:09:00&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:25&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:09:30&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:256&epochs:25&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:09:31&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:25&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:10:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:25&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:10:14&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:25&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:10:14&threshold_perc:75&threshold_value:[0.02911468]
+Optimizer:Adam&loss:mse&samplesize:512&epochs:31&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:10:44&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:31&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:10:45&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:512&epochs:31&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:09:10:45&threshold_perc:75&threshold_value:[0.01108988]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:28:05&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:28:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:28:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:28:29&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:28:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:32&time:2022-08-14:11:28:46&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-14:11:28:53&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-14:11:28:59&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-14:11:29:19&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:4096&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-14:11:29:19&threshold_perc:90&threshold_value:[0.00487457]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:47:57&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:47:59&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:8192&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:48:06&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:8192&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:48:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:8192&epochs:150&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-14:11:48:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:8192&epochs:150&learningrate:0.001&batchsize:256&pixelsize:32&time:2022-08-14:11:48:29&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:8192&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-14:11:48:44&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:8192&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-14:11:48:54&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:8192&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-14:11:49:07&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:8192&epochs:150&learningrate:0.001&batchsize:256&pixelsize:256&time:2022-08-14:11:49:07&threshold_perc:90&threshold_value:[0.00539483]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-18:20:19:07&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-23:19:31:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-23:19:31:14&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-23:19:31:27&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-23:19:32:18&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-08-23:19:32:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:32&time:2022-08-23:19:32:31&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-23:19:33:02&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-23:19:33:05&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-23:19:33:16&threshold_perc:90&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:1024&epochs:150&learningrate:0.001&batchsize:1024&pixelsize:128&time:2022-08-23:19:33:16&threshold_perc:90&threshold_value:[0.00574278]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:21:41:44&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:08:12&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:08:20&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:15:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:16:05&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:16:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:17:50&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:17:53&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:19:43&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:19:47&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:20:48&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:20:51&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:27:02&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:27:05&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:28:27&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:28:30&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:30:24&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:30:27&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:30:54&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:30:56&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:32:06&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:32:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:33:36&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:33:38&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:33:53&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:33:56&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:34:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:34:13&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:35:44&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:35:47&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:37:31&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:37:33&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:42:25&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:42:28&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:50:53&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:50:55&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:51:58&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:52:00&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:52:12&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:52:14&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:53:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:53:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:59:51&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:22:59:54&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:00:41&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:00:43&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:01:14&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:01:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:03:46&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:03:48&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:04:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:04:13&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:06:14&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:06:17&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:11:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:11:13&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:13:17&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:13:19&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:14:53&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:14:56&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:20:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:20:12&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:22:07&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:22:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:23:44&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:23:50&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:24:42&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:24:46&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:27:25&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:27:28&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:34:43&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:35:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:35:26&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:35:26&threshold_perc:75&threshold_value:[0.01866427]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:39:19&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:39:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:39:23&threshold_perc:75&threshold_value:[0.02060581]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:51:30&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:55:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:55:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:56:01&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:56:04&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:56:04&threshold_perc:75&threshold_value:[0.03103251]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:57:46&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:57:49&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:57:49&threshold_perc:75&threshold_value:[0.02490434]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:58:54&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-03:23:58:56&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:00:17&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:00:19&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:02:54&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:02:57&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:03:42&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:03:45&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:03:45&threshold_perc:75&threshold_value:[0.02272459]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:04:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:04:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:04:37&threshold_perc:75&threshold_value:[0.02212715]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:05:24&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:05:27&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:05:27&threshold_perc:75&threshold_value:[0.0284331]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:06:56&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:06:59&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:06:59&threshold_perc:75&threshold_value:[0.01396299]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:12:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:12:19&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:13:01&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:13:04&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:14:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:14:39&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:15:07&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:15:12&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:15:12&threshold_perc:75&threshold_value:[0.01237437]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:20:50&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:20:53&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:20:53&threshold_perc:75&threshold_value:[0.02592063]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:26:51&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:26:56&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:28:55&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:28:58&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:28:58&threshold_perc:75&threshold_value:[0.01305691]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:30:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:30:39&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:30:39&threshold_perc:75&threshold_value:[0.0202859]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:36:18&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:36:21&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:36:21&threshold_perc:75&threshold_value:[0.01739372]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:42:03&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:42:07&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:42:07&threshold_perc:75&threshold_value:[0.01602931]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:45:21&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:45:26&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:45:26&threshold_perc:75&threshold_value:[0.01618239]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:54:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:54:13&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:55:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:55:13&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:55:13&threshold_perc:75&threshold_value:[0.00988766]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:57:58&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:58:01&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:58:33&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:58:36&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:00:58:36&threshold_perc:75&threshold_value:[0.01244105]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:03:47&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:03:51&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:03:51&threshold_perc:75&threshold_value:[0.01938625]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:04:44&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:04:48&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:04:48&threshold_perc:75&threshold_value:[0.01494642]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:06:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:06:42&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:06:42&threshold_perc:75&threshold_value:[0.01841323]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:09:28&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:09:31&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:09:31&threshold_perc:75&threshold_value:[0.02490429]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:11:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:11:14&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:11:14&threshold_perc:75&threshold_value:[0.01248614]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:12:32&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:12:36&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:14:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:14:38&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:14:38&threshold_perc:75&threshold_value:[0.00976033]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:15:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:15:38&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:15:38&threshold_perc:75&threshold_value:[0.02754262]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:16:38&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:16:41&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:16:41&threshold_perc:75&threshold_value:[0.01304782]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:17:30&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:17:33&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:19:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:19:12&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:19:12&threshold_perc:75&threshold_value:[0.01529203]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:22:49&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:22:54&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:22:54&threshold_perc:75&threshold_value:[0.01329902]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:25:25&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:25:32&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:25:32&threshold_perc:75&threshold_value:[0.02139533]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:28:19&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:28:25&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:28:25&threshold_perc:75&threshold_value:[0.01537661]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:29:28&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:29:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:29:35&threshold_perc:75&threshold_value:[0.02632549]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:31:10&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:31:17&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:31:17&threshold_perc:75&threshold_value:[0.01474134]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:33:52&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:35:00&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:35:02&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:35:02&threshold_perc:75&threshold_value:[0.00971133]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:35:58&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:37:06&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:37:06&threshold_perc:75&threshold_value:[0.01790169]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:39:23&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:39:29&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:39:29&threshold_perc:75&threshold_value:[0.02192467]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:40:18&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:40:48&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:40:49&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:40:49&threshold_perc:75&threshold_value:[0.01006658]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:42:28&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:42:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:42:34&threshold_perc:75&threshold_value:[0.02598492]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:45:50&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:45:52&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:47:50&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:47:55&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:47:55&threshold_perc:75&threshold_value:[0.02263766]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:52:39&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:52:45&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:53:18&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:53:20&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:53:20&threshold_perc:75&threshold_value:[0.01560093]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:56:59&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:57:04&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:57:59&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:58:01&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:59:40&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:01:59:43&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:00:15&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:00:18&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:02:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:02:13&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:02:40&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:02:42&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:02:42&threshold_perc:75&threshold_value:[0.01682179]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:08:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:08:44&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:10:03&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:10:06&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:11:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:11:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:12:38&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:12:41&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:14:49&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:14:51&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:15:27&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:15:31&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:16:09&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:16:15&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:17:22&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:17:24&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:18:53&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:18:57&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:19:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:19:40&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:23:36&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:23:42&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:25:06&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:25:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:25:11&threshold_perc:75&threshold_value:[0.35359788]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:27:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:27:16&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:27:16&threshold_perc:75&threshold_value:[0.34673548]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:28:53&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:29:19&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:29:21&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:29:21&threshold_perc:75&threshold_value:[0.34496246]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:30:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:30:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:30:37&threshold_perc:75&threshold_value:[0.34924853]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:32:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:32:37&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:32:37&threshold_perc:75&threshold_value:[0.34148339]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:34:08&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:34:11&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:34:11&threshold_perc:75&threshold_value:[0.35171411]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:35:27&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:35:32&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:35:32&threshold_perc:75&threshold_value:[0.34568303]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:36:29&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:36:35&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:36:35&threshold_perc:75&threshold_value:[0.35140637]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:37:30&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:37:34&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:37:34&threshold_perc:75&threshold_value:[0.35321507]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:38:38&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:38:40&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:38:40&threshold_perc:75&threshold_value:[0.35350451]
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:44:27&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:44:36&threshold_perc:75&threshold_value:<built-in function threshold>
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:44:36&threshold_perc:75&threshold_value:[0.34192806]

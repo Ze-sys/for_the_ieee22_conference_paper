@@ -1,0 +1,12 @@
+
+0õ+
+	/host:CPUõ¦øñ˜
+	streamlit¦øñ˜"#õ¦øñ˜tf.constantHˆıµİŸPĞÎÒ®",õ¦øñ˜TFE_DeleteTensorHandleHàç‰ÿ Pà”B"/õ¦øñ˜TFE_Py_FastPathExecute_CH˜íê´¡P°ª³.",õ¦øñ˜TFE_DeleteTensorHandleHğãöÅ¡P˜æ",õ¦øñ˜TFE_DeleteTensorHandleH°Ä¼Ç¡P˜æ"/õ¦øñ˜EagerExecute: LogicalAndHçÊ¡P€Òó"4õ¦øñ˜EagerLocalExecute: LogicalAndHØªĞË¡Pø©£"3õ¦øñ˜ValidateInputTypeAndPlacementHà¯öĞ¡P?")õ¦øñ˜EagerKernelExecuteHğ¬Ò¡PÈ¼·"Tõ¦øñ˜
+LogicalAndHğ½£×¡P€½ªZ"
+	long_nameLogicalAnd:LogicalAndZ
+is_eager1"(õ¦øñ˜convert_to_tensorHĞÜ‡‘¢P°½„"/õ¦øñ˜TFE_Py_FastPathExecute_CH§ï—¢PØñå9"-õ¦øñ˜EagerExecute: IdentityH¸éÿ ¢PèˆÃ/"2õ¦øñ˜EagerLocalExecute: IdentityH¯¡¢Pø¢/"3õ¦øñ˜ValidateInputTypeAndPlacementHĞİ¦Ì¢Pè­")õ¦øñ˜EagerKernelExecuteHø³õÌ¢P ¤Ÿ"Nõ¦øñ˜IdentityH˜Û™Î¢P˜éZ
+	long_nameIdentity:IdentityZ
+is_eager1"/õ¦øñ˜TFE_Py_FastPathExecute_CH¨¦€×¢P°û™"(õ¦øñ˜convert_to_tensorH¨äÇğ¢PØ×Ô
+"(õ¦øñ˜convert_to_tensorH š‚ı¢P˜ìÍ""õ¦øñ˜tf.constantHøÚ½„£PÈ€ã"(õ¦øñ˜convert_to_tensorH¸½£P€ï“""õ¦øñ˜tf.constantHÀ—ï”£P¸êá",õ¦øñ˜TFE_DeleteTensorHandleHÈ‰­¢£Pˆµ%"(õ¦øñ˜convert_to_tensorHğÎÅ¨£PèØ""õ¦øñ˜tf.constantH°ÂÒ¬£P˜ä",õ¦øñ˜TFE_DeleteTensorHandleHø†Ì²£P ò"/õ¦øñ˜TFE_Py_ExecuteCancelableHèĞ«º£PˆˆŒ7"1õ¦øñ˜EagerExecute: WriteSummaryH€ÑÀÀ£PÈê•0"6õ¦øñ˜EagerLocalExecute: WriteSummaryHÀŞúÀ£Pè…Ä/"3õ¦øñ˜ValidateInputTypeAndPlacementHø¯¸Â£P¨×$")õ¦øñ˜EagerKernelExecuteHØ©ƒÃ£PÀ”„-"Zõ¦øñ˜WriteSummaryH¨²¬Ä£P¨+Z&
+	long_nameWriteSummary:WriteSummaryZ
+is_eager1",õ¦øñ˜TFE_DeleteTensorHandleH¸ıó£P€¤q",õ¦øñ˜TFE_DeleteTensorHandleHĞÜÌô£P¸ó",õ¦øñ˜TFE_DeleteTensorHandleHÈÏíô£Pèõ""õ¦øñ˜tf.constantHÈ€œü£P˜ÃØ",õ¦øñ˜TFE_DeleteTensorHandleHğÃÿ…¤P°®",õ¦øñ˜TFE_DeleteTensorHandleH°£ò†¤PÀñl",õ¦øñ˜TFE_DeleteTensorHandleHøÀã“¤P°†L",õ¦øñ˜TFE_DeleteTensorHandleHÈèØ”¤PøÃ

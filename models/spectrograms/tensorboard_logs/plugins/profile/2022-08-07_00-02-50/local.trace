@@ -1,0 +1,13 @@
+
+0õ+
+	/host:CPUõ¦øñ˜
+	streamlit¦øñ˜"#õ¦øñ˜tf.constantH°üÓ§‚P Î·",õ¦øñ˜TFE_DeleteTensorHandleHÛè¹ƒPøñJ"/õ¦øñ˜TFE_Py_FastPathExecute_CHè‘âåƒPĞ»¦&",õ¦øñ˜TFE_DeleteTensorHandleHĞ·«ôƒP°Õ",õ¦øñ˜TFE_DeleteTensorHandleH˜æäõƒP¼"/õ¦øñ˜EagerExecute: LogicalAndHè…­øƒPøæî"4õ¦øñ˜EagerLocalExecute: LogicalAndHØ„ºùƒP ¥Ë"3õ¦øñ˜ValidateInputTypeAndPlacementHˆîÙıƒPèè3")õ¦øñ˜EagerKernelExecuteHÈäîşƒP€Êğ
+"Tõ¦øñ˜
+LogicalAndHĞú¾‚„P üÏZ
+is_eager1Z"
+	long_nameLogicalAnd:LogicalAnd"(õ¦øñ˜convert_to_tensorHˆ´ô²„PØ¨Ï"/õ¦øñ˜TFE_Py_FastPathExecute_CH ˜¼¹„PøÉô."-õ¦øñ˜EagerExecute: IdentityH€³áÂ„Pô®$"2õ¦øñ˜EagerLocalExecute: IdentityHğÈ“Ã„P¨¸ì#"3õ¦øñ˜ValidateInputTypeAndPlacementH¸º­ã„PˆÖ")õ¦øñ˜EagerKernelExecuteH˜¢şã„P€³æ"Mõ¦øñ˜IdentityHÈ¬œå„P°»dZ
+	long_nameIdentity:IdentityZ
+is_eager1"/õ¦øñ˜TFE_Py_FastPathExecute_CHàÕğ„PØìÙ"(õ¦øñ˜convert_to_tensorHĞÇï…PàÂ¦ "(õ¦øñ˜convert_to_tensorH  ¼Ã…Pˆ‰#""õ¦øñ˜tf.constantHˆ¸àÑ…P°ê×"(õ¦øñ˜convert_to_tensorH ¾½é…P¸ÏŸ'""õ¦øñ˜tf.constantH€ş¬ò…P€´÷",õ¦øñ˜TFE_DeleteTensorHandleHüØˆ†P Øj"(õ¦øñ˜convert_to_tensorH°Şø’†P˜ÑÊ""õ¦øñ˜tf.constantHÏ´™†P¨¦À
+",õ¦øñ˜TFE_DeleteTensorHandleHÀ”Ñ¢†PØô"/õ¦øñ˜TFE_Py_ExecuteCancelableHÀ¼í°†P¨â¶Z"1õ¦øñ˜EagerExecute: WriteSummaryHØËâ¿†PĞ£¿J"6õ¦øñ˜EagerLocalExecute: WriteSummaryHÈöŠÁ†PØ¢üH"3õ¦øñ˜ValidateInputTypeAndPlacementH°œòÅ†P Õk")õ¦øñ˜EagerKernelExecuteHˆªĞÇ†PàöA"Zõ¦øñ˜WriteSummaryHø‰ˆÌ†PÈÕø;Z&
+	long_nameWriteSummary:WriteSummaryZ
+is_eager1",õ¦øñ˜TFE_DeleteTensorHandleH¨€º‡P€ı}",õ¦øñ˜TFE_DeleteTensorHandleH°ïœ‡Pˆñ",õ¦øñ˜TFE_DeleteTensorHandleHğÁÀ‡P˜à""õ¦øñ˜tf.constantHğ­üš‡P˜ú–",õ¦øñ˜TFE_DeleteTensorHandleHƒÄ§‡Pè³",õ¦øñ˜TFE_DeleteTensorHandleHğÜì¨‡Pè´n",õ¦øñ˜TFE_DeleteTensorHandleHğå¿¶‡PˆËq",õ¦øñ˜TFE_DeleteTensorHandleH ğİ·‡P€î

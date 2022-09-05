@@ -1,0 +1,11 @@
+
+0õ+
+	/host:CPUõ–°ó¯
+	streamlit–°ó¯"#õ–°ó¯tf.constantH¸Ü—–¶Pğ§ ",õ–°ó¯TFE_DeleteTensorHandleH¸¢éŒ·Pğˆ`"/õ–°ó¯TFE_Py_FastPathExecute_CHÈ§»·PÀ§¹5",õ–°ó¯TFE_DeleteTensorHandleH˜¡œÌ·Pˆ†",õ–°ó¯TFE_DeleteTensorHandleH¸Ã•Î·P¶"/õ–°ó¯EagerExecute: LogicalAndHà×·PÀã‚"4õ–°ó¯EagerLocalExecute: LogicalAndHØÿÛ·Pğ¤ô"3õ–°ó¯ValidateInputTypeAndPlacementHà”†à·Pˆ¢U")õ–°ó¯EagerKernelExecuteHˆ§¾á·P¨°"Tõ–°ó¯
+LogicalAndHèÊïå·PàãZ
+is_eager1Z"
+	long_nameLogicalAnd:LogicalAnd"(õ–°ó¯convert_to_tensorH äá¡¸P€åù"/õ–°ó¯TFE_Py_FastPathExecute_CH¸˜³ª¸PğŒ;"-õ–°ó¯EagerExecute: IdentityH îò¶¸Pè±è,"2õ–°ó¯EagerLocalExecute: IdentityH°À·¸P˜ïû+"3õ–°ó¯ValidateInputTypeAndPlacementHèù˜Ş¸P€š!")õ–°ó¯EagerKernelExecuteH Ó€ß¸P˜˜“"Mõ–°ó¯IdentityHˆùğà¸PĞ­sZ
+	long_nameIdentity:IdentityZ
+is_eager1"/õ–°ó¯TFE_Py_FastPathExecute_CHøø²ì¸Pø†"(õ–°ó¯convert_to_tensorH¸š¶Š¹P˜¢Ë"(õ–°ó¯convert_to_tensorHˆè›š¹PĞÙÉ""õ–°ó¯tf.constantH¸¹´£¹P°«û"(õ–°ó¯convert_to_tensorH°˜ÿ³¹PàÊĞ""õ–°ó¯tf.constantH ÿ»¹P €û",õ–°ó¯TFE_DeleteTensorHandleHĞôöË¹P€á3"(õ–°ó¯convert_to_tensorHĞê…Ö¹PÍâ""õ–°ó¯tf.constantH¨ƒûÜ¹Pà£™",õ–°ó¯TFE_DeleteTensorHandleHĞ¿ç¹PĞ%"/õ–°ó¯TFE_Py_ExecuteCancelableHàêÅó¹P¸ö;"1õ–°ó¯EagerExecute: WriteSummaryH¸üãû¹Pè®×2"6õ–°ó¯EagerLocalExecute: WriteSummaryHÈæ®ü¹P¶ï1"3õ–°ó¯ValidateInputTypeAndPlacementH˜Ïµş¹PÀõA")õ–°ó¯EagerKernelExecuteHÀ°ÿ¹P¸õ§."Zõ–°ó¯WriteSummaryH˜™¾ºP¨Ô¡+Z&
+	long_nameWriteSummary:WriteSummaryZ
+is_eager1",õ–°ó¯TFE_DeleteTensorHandleHĞß±ºPğ½x",õ–°ó¯TFE_DeleteTensorHandleHˆ•¶³ºP€¾",õ–°ó¯TFE_DeleteTensorHandleHˆØó³ºPÈÓ""õ–°ó¯tf.constantHØÇ¶½ºP¸ĞØ",õ–°ó¯TFE_DeleteTensorHandleH¨Î’ÊºPĞ—'",õ–°ó¯TFE_DeleteTensorHandleH€Æ¤ËºP óa",õ–°ó¯TFE_DeleteTensorHandleH˜›ÜØºPğÍI",õ–°ó¯TFE_DeleteTensorHandleH¨ŒøÙºPğ–

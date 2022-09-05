@@ -1,0 +1,54 @@
+
+0õ+
+	/host:CPUõ¯åøÂ
+
+	streamlit¯åøÂ
+"!õ¯åøÂ
+tf.constantH¸™Š¥P¸ñŞ*"+õ¯åøÂ
+TFE_DeleteTensorHandleH¨‡“ÅPèÃi".õ¯åøÂ
+TFE_Py_FastPathExecute_CHàŞâéP€­ä-"+õ¯åøÂ
+TFE_DeleteTensorHandleH Ê¡úP°Ò	"+õ¯åøÂ
+TFE_DeleteTensorHandleH°Ö±üPàÈ".õ¯åøÂ
+EagerExecute: LogicalAndHˆÚ°‚Pè˜"3õ¯åøÂ
+EagerLocalExecute: LogicalAndH¨ĞƒP°·Ü"2õ¯åøÂ
+ValidateInputTypeAndPlacementHàÎ·‡PÈ™C"(õ¯åøÂ
+EagerKernelExecuteH°„ÒˆP°è±"Sõ¯åøÂ
+
+LogicalAndHøê™P°äñZ
+is_eager1Z"
+	long_nameLogicalAnd:LogicalAnd"'õ¯åøÂ
+convert_to_tensorHè“ƒ¿P¨ÁÉ".õ¯åøÂ
+TFE_Py_FastPathExecute_CH ØÜÆPë4",õ¯åøÂ
+EagerExecute: IdentityH ŠØĞPèüÛ("1õ¯åøÂ
+EagerLocalExecute: IdentityH°˜—ÑP ´ş'"2õ¯åøÂ
+ValidateInputTypeAndPlacementHğüÈôPğË "(õ¯åøÂ
+EagerKernelExecuteHàµ™õPÈ¼Ø"Mõ¯åøÂ
+IdentityH¸ÚöPÀü’Z
+	long_nameIdentity:IdentityZ
+is_eager1".õ¯åøÂ
+TFE_Py_FastPathExecute_CH¢£€PØÖ"'õ¯åøÂ
+convert_to_tensorHĞ‚ŸP€‘ƒ"'õ¯åøÂ
+convert_to_tensorHøÂç¬Pè·«"!õ¯åøÂ
+tf.constantH€êÌµP¨Šü"'õ¯åøÂ
+convert_to_tensorHĞøÆÅPÀ¦¨"!õ¯åøÂ
+tf.constantHˆø¹ÌP Ñ"+õ¯åøÂ
+TFE_DeleteTensorHandleHé˜İPàÍ/"'õ¯åøÂ
+convert_to_tensorHğ¼¨çP ÷î"!õ¯åøÂ
+tf.constantH¨ì‹îPàê®"+õ¯åøÂ
+TFE_DeleteTensorHandleHàµ‡øP€©".õ¯åøÂ
+TFE_Py_ExecuteCancelableH¨€ê„P¸ŠÈ!"0õ¯åøÂ
+EagerExecute: WriteSummaryHØÈ‚PğÅ"5õ¯åøÂ
+EagerLocalExecute: WriteSummaryH°€ÖPØƒÏ"2õ¯åøÂ
+ValidateInputTypeAndPlacementH¨œ’Pèƒ+"(õ¯åøÂ
+EagerKernelExecuteHÈúõ’Pà¸€"Yõ¯åøÂ
+WriteSummaryHˆ—¥•Pà¹ßZ&
+	long_nameWriteSummary:WriteSummaryZ
+is_eager1"+õ¯åøÂ
+TFE_DeleteTensorHandleH¨×Ş¨PÈ­f"+õ¯åøÂ
+TFE_DeleteTensorHandleH˜à»ªPà’"+õ¯åøÂ
+TFE_DeleteTensorHandleHØáùªP€å"!õ¯åøÂ
+tf.constantH€Ñà¼PèäÌ"+õ¯åøÂ
+TFE_DeleteTensorHandleH¨µ°ÉP°«"+õ¯åøÂ
+TFE_DeleteTensorHandleH½­ÊP±]"+õ¯åøÂ
+TFE_DeleteTensorHandleH¸ÙüŞPÈ‚!"+õ¯åøÂ
+TFE_DeleteTensorHandleHÈİèßP°Ï

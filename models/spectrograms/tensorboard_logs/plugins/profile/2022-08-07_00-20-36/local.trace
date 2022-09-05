@@ -1,0 +1,11 @@
+
+0õ+
+	/host:CPUõ¦øñ˜
+	streamlit¦øñ˜"#õ¦øñ˜tf.constantH í²Ÿ†PøüË³",õ¦øñ˜TFE_DeleteTensorHandleH€ˆòÆ‡PÀ¶V"/õ¦øñ˜TFE_Py_FastPathExecute_CHÈÏïô‡PØŒş.",õ¦øñ˜TFE_DeleteTensorHandleHĞ’şˆˆPèò",õ¦øñ˜TFE_DeleteTensorHandleHğ ÔŠˆP¿"/õ¦øñ˜EagerExecute: LogicalAndHøöåˆPĞÏ‚"4õ¦øñ˜EagerLocalExecute: LogicalAndHˆ÷üˆPğ„Õ"3õ¦øñ˜ValidateInputTypeAndPlacementHè» ”ˆP˜Ü2")õ¦øñ˜EagerKernelExecuteH¨Ö©•ˆP •‰"Tõ¦øñ˜
+LogicalAndH€¬ç™ˆPÈ•ßZ"
+	long_nameLogicalAnd:LogicalAndZ
+is_eager1"(õ¦øñ˜convert_to_tensorH¸éèÌˆPÈ¶Ú"/õ¦øñ˜TFE_Py_FastPathExecute_CH¨¼ÈÓˆPˆôÍ?"-õ¦øñ˜EagerExecute: IdentityHèøİˆPà¦ 3"2õ¦øñ˜EagerLocalExecute: IdentityH¨Ë¢ŞˆPøäß2"3õ¦øñ˜ValidateInputTypeAndPlacementHı‹‰PÈˆ")õ¦øñ˜EagerKernelExecuteHøµËŒ‰Pè’š"Nõ¦øñ˜IdentityH¸ıÂ‰Pğ¶¤Z
+	long_nameIdentity:IdentityZ
+is_eager1"/õ¦øñ˜TFE_Py_FastPathExecute_CH…ÿ›‰P˜ûé"(õ¦øñ˜convert_to_tensorH ÚØÃ‰P°õ"(õ¦øñ˜convert_to_tensorH˜©ÕÓ‰P¨Ïš ""õ¦øñ˜tf.constantHÈ²äç‰PÈ½Ÿ"(õ¦øñ˜convert_to_tensorH¸ó´õ‰Pøç¦""õ¦øñ˜tf.constantHØ¡¡ú‰Pø«Ø",õ¦øñ˜TFE_DeleteTensorHandleHÈšƒŠŠPˆ´O"(õ¦øñ˜convert_to_tensorH€îÔ’ŠPè–³""õ¦øñ˜tf.constantHĞÒú˜ŠPğî—",õ¦øñ˜TFE_DeleteTensorHandleH°“·¤ŠP€¦"/õ¦øñ˜TFE_Py_ExecuteCancelableH¸ªÈ®ŠP˜ÀÃ5"1õ¦øñ˜EagerExecute: WriteSummaryH°¸ËµŠPè¦¿-"6õ¦øñ˜EagerLocalExecute: WriteSummaryHØ©‘¶ŠPĞËâ,"3õ¦øñ˜ValidateInputTypeAndPlacementH¨¬¹¸ŠPØ”5")õ¦øñ˜EagerKernelExecuteHè²Ÿ¹ŠP ¡«)"Zõ¦øñ˜WriteSummaryHëôºŠPĞ€'Z&
+	long_nameWriteSummary:WriteSummaryZ
+is_eager1",õ¦øñ˜TFE_DeleteTensorHandleHøÄ©æŠPè—N",õ¦øñ˜TFE_DeleteTensorHandleHøÿ¼çŠP¨“",õ¦øñ˜TFE_DeleteTensorHandleHø“àçŠP˜ã""õ¦øñ˜tf.constantH€ÜÀîŠPˆõ×",õ¦øñ˜TFE_DeleteTensorHandleHØÌæ÷ŠPøà&",õ¦øñ˜TFE_DeleteTensorHandleHˆˆËøŠP€“M",õ¦øñ˜TFE_DeleteTensorHandleH°¬Ù…‹PÈàU",õ¦øñ˜TFE_DeleteTensorHandleHà¤ı†‹P˜ã
