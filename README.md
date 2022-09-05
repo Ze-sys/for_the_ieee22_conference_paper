@@ -5,8 +5,7 @@
 
 <a> Anomaly detection using basic autoencoders </a>
 
-### [![Open Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ze-sys-for-the-ieee22-conference-paper-home-hr7pb3.streamlitapp.com/)
-
+[![Open Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ze-sys-for-the-ieee22-conference-paper-home-hr7pb3.streamlitapp.com/)
 [<img src="https://img.shields.io/badge/dockerhub-image-COLOR.svg?logo=LOGO">](https://hub.docker.com/r/zesys0/autoencoders4ieee22)
 
 
