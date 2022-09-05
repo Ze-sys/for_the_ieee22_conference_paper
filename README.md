@@ -8,7 +8,7 @@
 <a>
 This repository contains a streamlit app that I built and used to train and test autoencoder models for ieee'22 oceans conference paper (Paper ID 2022169954). 
 Only Dense layers were used in the models. I ran out of time to finish the models with CNN layers. 
-New models can be trained and and saved using this app. However, due to expected resource constraints in the free deployment server, the app should be used locally. Even when testing the provided models with the larger datasets can give the server troubles, and the app may crash. An image will be added to DockerHub soon to make it easier to run the app locally.
+New models can be trained and and saved using this app**. However, due to expected resource constraints in the free deployment server, the app should be used locally. Even when testing the provided models with the **larger datasets can give the server troubles, and the app may crash. An image will be added to DockerHub soon to make it easier to run the app locally.
 In addition to the hydrophone spectrogram images used in the paper, the models in this repo are trained on WERA radar Range-Cell (RC) images. Only a subset, including the final model presented in the paper, of the models are included in this repo.
 </a>
 Details to come soon.
