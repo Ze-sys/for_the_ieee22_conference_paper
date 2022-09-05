@@ -25,9 +25,11 @@ preamble = f""" <h1  style=""> <img src="https://theaisummer.com/static/6f5e6b01
 <p>
 This is an app built and used to train and test autoencoder models for ieee'22 oceans conference paper (Paper ID 2022169954). 
 Only Dense layers were used in the models. I ran out of time to finish the models with CNN layers. 
-New models can be trained and and saved using this app. However, due to expected resource constraints in the free deployment server, the app should be used locally. Even when testing the provided models with the <mark>larger datasets can give the server troubles, and the app may crash</mark>.
+New models can be trained and and saved using this app. However, due to expected resource constraints in the free deployment server, 
+the app should be used locally. Even when testing the provided models with the <span  style="color:red">larger datasets can give the server troubles, and the app may crash</span>. 
 An image will be added to DockerHub soon to make it easier to run the app locally.
-In addition to the hydrophone spectrogram images used in the paper, the models in this repo are trained on WERA radar Range-Cell (RC) images. Only a subset, including the final model presented in the paper, of the models are included in this repo.
+In addition to the hydrophone spectrogram images used in the paper, the models in this repo are trained on WERA radar Range-Cell (RC) images. 
+Only a subset, including the final model presented in the paper, of the models are included in this repo.
 All data credit to Ocean Networks Canada (ONC).
 </p>
 """
