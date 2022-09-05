@@ -16,6 +16,11 @@ In addition to the hydrophone spectrogram images used in the paper, the models i
 
 Details to come soon.
 
+#### The model training component:
+![model-trainer-demo](model-trainer-demo.gif)
+
+#### The model testing component:
+![model-tester-demo](model-tester-demo.gif)
 
 #### Credits: 
  

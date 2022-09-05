@@ -770,7 +770,7 @@ if run_model:  # The model does not run until I say so.
     print_stats(preds, test_labels, 'Anomalous (test) set reconstruction metrics:', tag='anomalous')
 
     print(logdir)
-    write_current_model_name(threshold=threshold[0].round(6))  # to csv file
+    write_current_model_name()  # to csv file
 
     
     assert autoencoder is not None, "Current model is empty. Run the model to save the the weights."
