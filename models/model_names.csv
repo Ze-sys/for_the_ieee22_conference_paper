@@ -795,3 +795,4 @@ Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&p
 Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-04:02:44:36&threshold_perc:75&threshold_value:[0.34192806]
 Optimizer:Adam&loss:mse&samplesize:64&epochs:20&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-05:14:32:28&threshold_perc:95&threshold_value:0
 Optimizer:Adam&loss:mse&samplesize:64&epochs:50&learningrate:0.001&batchsize:16&pixelsize:32&time:2022-09-05:14:33:57&threshold_perc:95&threshold_value:0
+Optimizer:Adam&loss:mse&samplesize:32&epochs:2&learningrate:0.001&batchsize:16&pixelsize:32&time:2023-09-10:00:46:23&threshold_perc:75&threshold_value:0
