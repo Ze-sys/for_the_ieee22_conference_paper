@@ -201,7 +201,7 @@ read_saved_model_names()  # reads, writes, and deletes model history from Tensor
 
 
 # # Data
-# @st.cache
+# @st.cache_data
 def load_data(data_path='/data/wera_rc_plots/trimmed/', good_image_path='good/',
               bad_image_path='bad/'):
     image_paths_normal, saved_location_normal = glob.glob(data_path + '*.gif'), data_path + good_image_path

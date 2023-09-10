@@ -157,7 +157,7 @@ dataset_selected = data_select_apriori_cols[0].selectbox(label='Select image set
 label_type=data_select_apriori_cols[1].selectbox(label='Select label to test against (True means all images are expected to be normal/good)', options=['True', 'False'])
 
 
-@st.cache
+@st.cache_data
 def load_data(dataset_selected, img_list_file):
     if dataset_selected == 'unknown (default)':
         test_images_path =  pd.read_csv(img_list_file, skipinitialspace=True, usecols=['unknown_images_path'])
@@ -232,7 +232,7 @@ class Predict:
         self.selected_model = selected_model
         self.dataset_selected = dataset_selected
         self.selected_model_path = model_path + selected_model.model_name.values[0]
-    # @st.cache   
+    # @st.cache_data   
     def load_model(self):
         self.model = tf.keras.models.load_model(self.selected_model_path)
         return  self.model
@@ -579,7 +579,7 @@ if user_selected_img_row.shape[0] > 0:
             markdown_if_true_or_false(df['Predictions'][n])
             open_and_show_image(n, test_files_list[n])
 
-@st.cache
+@st.cache_data
 def df_to_csv(df):
     return df.to_csv().encode('utf-8')
 
