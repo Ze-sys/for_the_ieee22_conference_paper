@@ -23,7 +23,8 @@ preamble = f""" <h1  style=""> <img src="https://theaisummer.com/static/6f5e6b01
 -->
 
 <p>
-This is an app built and used to train and test autoencoder models for ieee'22 oceans conference paper (Paper ID 2022169954). 
+This is an app built and used to train and test autoencoder models for the conference paper [Anomaly detection in complex data: a practical application when outliers are few
+](https://ieeexplore.ieee.org/document/9977351). 
 Only Dense layers were used in the models. I ran out of time to finish the models with CNN layers. 
 New models can be trained and saved using this app. However, due to expected resource constraints in the free deployment server, 
 the app should be used locally. <span  style="color:red">Even when testing the provided models with the larger datasets can give the server troubles, and the app may crash</span>. 
